@@ -1,0 +1,28 @@
+.dis{
+    display: flex;
+    justify-content:space-between;
+     font-size:20px;
+     font-weight: bold;
+}
+.logo{
+    width: 100px;
+    height: 70px;
+    margin-top:1%;
+    padding: 0px;
+}
+.parent{
+    padding: 30px;
+    margin-bottom: 50px;
+}
+.logo2{
+    margin-top: 2%;
+    margin-right:6%;
+    font-size: 30px;
+}
+.button{
+    height: 40px;
+    width: 130px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+}
